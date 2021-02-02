@@ -14,7 +14,6 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 	letter-spacing: .2rem;
 	margin: 20px 20px 20px 20px;
-	text-align: justify;
 }
 
 p {
@@ -22,6 +21,7 @@ p {
 	font-weight: 400;	
 	margin-left: 20px;
 	margin-right: 20px;
+	text-align: justify;
 }
 
 h2 {
